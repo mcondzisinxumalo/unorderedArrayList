@@ -1,3 +1,4 @@
+//This file was cloned using GIT GUI
 //GUI editions
 //this file has been edited
 #include "StdAfx.h"
