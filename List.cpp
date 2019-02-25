@@ -1,3 +1,4 @@
+//GUI editions
 //this file has been edited
 #include "StdAfx.h"
 #include <iostream>
